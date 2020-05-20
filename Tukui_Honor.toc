@@ -1,0 +1,8 @@
+## Interface: 80300
+## Title: |cffff8000Tukui|r Honor
+## Version: 1.00
+## Notes: Create a data text to display honor
+## Author: Hydra
+## RequiredDeps: Tukui
+
+Tukui_Honor.lua
