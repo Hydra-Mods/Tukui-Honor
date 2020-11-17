@@ -1,6 +1,6 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: |cffff8000Tukui|r Honor
-## Version: 1.03
+## Version: 1.04
 ## Notes: Create a data text to display honor
 ## Author: Hydra
 ## RequiredDeps: Tukui
